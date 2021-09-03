@@ -36,3 +36,4 @@
 - controller package is for monitoring user, publisher, admin tasks
 - Publisher/User Controller fetch their information from Search and Book
 - AdminController requests the User entity defined in this module for modifying users
+- spring security is used for authentication manners
