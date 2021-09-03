@@ -15,7 +15,6 @@
 - using spring data JPA for interaction with database
 
 #### notes
-```diff
 - the project is implemented by MVC architecture
 - all modules interact with RESTFUL API
 - JSP (java server pages) used for view
