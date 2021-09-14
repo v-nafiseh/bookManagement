@@ -1,4 +1,4 @@
-### Book Management system - TeamWork with ![Shokoofa Ghods](https://github.com/shokoofa-ghods)
+### Book Management System - TeamWork with ![Shokoofa Ghods](https://github.com/shokoofa-ghods)
 
 #### main options
 - users are: Admin, Author, ordinary User
